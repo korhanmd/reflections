@@ -22,6 +22,7 @@ organized? How would branches help?
 	languages, making experimental changes, we can use branches to apply these changes.
 
 How do the diagrams help you visualize the branch structure?
+
 	It helps us to track which branch created on which commit. Eases the understand
 	what are differences.
 
@@ -34,3 +35,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	If there is no conflicts automatic merge makes works easier and faster. But, if there
+	are some conflicts choosing which one to merge is a good way to improve code.
