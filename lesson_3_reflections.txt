@@ -34,4 +34,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When we want to add new features without lost the current version. Thus, we can
+	work on to add new things without fear. Also, we can collaborate with others
+	on different branches for every feature.
