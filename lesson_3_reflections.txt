@@ -20,7 +20,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It may avoids conflicts when we are working on the code. If it always syncs
+	remote and local our part may change by someone's commit. It's similar to
+	making pulls manually.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
